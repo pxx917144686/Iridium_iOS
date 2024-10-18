@@ -9,7 +9,7 @@ DumpDecrypter 脱壳工具——> 是~ 基于“DumpDecrypted”的修改封装�
 
 
 DumpDecrypted、DumpDecrypter 与 Iridium 的对比
-![Preview](./Workflow/Preview/1.jpg)
+![Preview](./Workflow/Preview/pxx917144686.jpg)
 
 
 
